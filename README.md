@@ -1,7 +1,7 @@
 # kawin-stuff
 kawin-stuff is a repository that contains well kawin stuff lol XD.
 
-Also i reccomend reading the note.md
+Also i reccomend reading the note.txt
 # door.py
 door.py is a story novel game created in python
 # rng.py
