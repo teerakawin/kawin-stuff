@@ -5,4 +5,6 @@ Also i reccomend reading the note.txt
 # door.py
 door.py is a story novel game created in python
 # rng.py
-rng.py is a random number generater that goes 1 to 1000
+rng.py is a random number generater that goes 1 to 1000 created in python
+# hi.py
+hi.py is just say hi to you created in python
